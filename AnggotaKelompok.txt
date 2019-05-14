@@ -1,0 +1,10 @@
+Nama Anggota
+
+- Alfan Sandria              3411161078
+- Iqbal Abdul Jabbar         3411161080
+- Yulianto Dwi Saptohadi     3411161088
+- Faskal Hasbullah           3411161123
+
+Keterangan Aplikasi
+  aplikasi bertujuan membuat sistem yang dimana dapat menambah sebuah data yang dimana berisi sebuah serial code voucher yang
+  yang biasa di pakaii untuk bermain game ataupun membeli game.
